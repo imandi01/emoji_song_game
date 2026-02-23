@@ -1,10 +1,10 @@
-🎵 Emoji Song Guessing Game
+#🎵 Emoji Song Guessing Game
 
 An interactive browser-based music trivia game where players guess song titles from emoji clues.
 
 Built using HTML, CSS, and Vanilla JavaScript, this project demonstrates dynamic game logic, state management, and real-time user interaction.
 
-🚀 Features
+**🚀 Features**
 
 🎯 Multiple difficulty levels (Easy, Medium, Hard)
 
@@ -22,7 +22,7 @@ Built using HTML, CSS, and Vanilla JavaScript, this project demonstrates dynamic
 
 🌈 Animated aesthetic UI
 
-🧠 How It Works
+**🧠 How It Works**
 
 The game randomly selects an emoji clue based on chosen difficulty.
 
@@ -36,7 +36,7 @@ Hints deduct points.
 
 Timer expiration moves to the next round automatically.
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 HTML5
 
@@ -44,7 +44,7 @@ CSS3 (animations + responsive styling)
 
 Vanilla JavaScript (DOM manipulation, timers, game logic)
 
-🔮 Future Improvements
+**🔮 Future Improvements**
 
 🎵 Sound effects for correct/incorrect answers
 
