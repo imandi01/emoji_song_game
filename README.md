@@ -1,4 +1,4 @@
-#🎵 Emoji Song Guessing Game
+##🎵 Emoji Song Guessing Game##
 
 An interactive browser-based music trivia game where players guess song titles from emoji clues.
 
